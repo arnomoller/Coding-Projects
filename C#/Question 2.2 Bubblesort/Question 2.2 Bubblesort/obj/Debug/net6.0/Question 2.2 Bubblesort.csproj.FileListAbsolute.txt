@@ -1,0 +1,15 @@
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\bin\Debug\net6.0\Question 2.2 Bubblesort.exe
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\bin\Debug\net6.0\Question 2.2 Bubblesort.deps.json
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\bin\Debug\net6.0\Question 2.2 Bubblesort.runtimeconfig.json
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\bin\Debug\net6.0\Question 2.2 Bubblesort.dll
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\bin\Debug\net6.0\Question 2.2 Bubblesort.pdb
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\obj\Debug\net6.0\Question 2.2 Bubblesort.csproj.AssemblyReference.cache
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\obj\Debug\net6.0\Question 2.2 Bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\obj\Debug\net6.0\Question 2.2 Bubblesort.AssemblyInfoInputs.cache
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\obj\Debug\net6.0\Question 2.2 Bubblesort.AssemblyInfo.cs
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\obj\Debug\net6.0\Question 2.2 Bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\obj\Debug\net6.0\Question 2.2 Bubblesort.dll
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\obj\Debug\net6.0\refint\Question 2.2 Bubblesort.dll
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\obj\Debug\net6.0\Question 2.2 Bubblesort.pdb
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\obj\Debug\net6.0\Question 2.2 Bubblesort.genruntimeconfig.cache
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Question 2.2 Bubblesort\Question 2.2 Bubblesort\obj\Debug\net6.0\ref\Question 2.2 Bubblesort.dll

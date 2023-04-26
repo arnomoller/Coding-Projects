@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LA_BLOCK_4
+build_property.ProjectDir = C:\Users\arnom\Desktop\BSC IT 2\Block 4\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\

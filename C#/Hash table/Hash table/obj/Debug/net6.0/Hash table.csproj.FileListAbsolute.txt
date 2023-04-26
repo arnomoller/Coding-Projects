@@ -1,0 +1,15 @@
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\bin\Debug\net6.0\Hash table.exe
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\bin\Debug\net6.0\Hash table.deps.json
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\bin\Debug\net6.0\Hash table.runtimeconfig.json
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\bin\Debug\net6.0\Hash table.dll
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\bin\Debug\net6.0\Hash table.pdb
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\obj\Debug\net6.0\Hash table.csproj.AssemblyReference.cache
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\obj\Debug\net6.0\Hash table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\obj\Debug\net6.0\Hash table.AssemblyInfoInputs.cache
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\obj\Debug\net6.0\Hash table.AssemblyInfo.cs
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\obj\Debug\net6.0\Hash table.csproj.CoreCompileInputs.cache
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\obj\Debug\net6.0\Hash table.dll
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\obj\Debug\net6.0\refint\Hash table.dll
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\obj\Debug\net6.0\Hash table.pdb
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\obj\Debug\net6.0\Hash table.genruntimeconfig.cache
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\Hash table\Hash table\obj\Debug\net6.0\ref\Hash table.dll

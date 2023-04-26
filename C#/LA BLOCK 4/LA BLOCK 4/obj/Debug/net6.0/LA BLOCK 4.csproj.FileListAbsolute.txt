@@ -1,0 +1,15 @@
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\obj\Debug\net6.0\LA BLOCK 4.csproj.AssemblyReference.cache
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\obj\Debug\net6.0\LA BLOCK 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\obj\Debug\net6.0\LA BLOCK 4.AssemblyInfoInputs.cache
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\obj\Debug\net6.0\LA BLOCK 4.AssemblyInfo.cs
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\obj\Debug\net6.0\LA BLOCK 4.csproj.CoreCompileInputs.cache
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\bin\Debug\net6.0\LA BLOCK 4.exe
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\bin\Debug\net6.0\LA BLOCK 4.deps.json
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\bin\Debug\net6.0\LA BLOCK 4.runtimeconfig.json
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\bin\Debug\net6.0\LA BLOCK 4.dll
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\bin\Debug\net6.0\LA BLOCK 4.pdb
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\obj\Debug\net6.0\LA BLOCK 4.dll
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\obj\Debug\net6.0\refint\LA BLOCK 4.dll
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\obj\Debug\net6.0\LA BLOCK 4.pdb
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\obj\Debug\net6.0\LA BLOCK 4.genruntimeconfig.cache
+C:\Users\arnom\Desktop\ITPCA\Question 2.2\LA BLOCK 4\LA BLOCK 4\obj\Debug\net6.0\ref\LA BLOCK 4.dll
