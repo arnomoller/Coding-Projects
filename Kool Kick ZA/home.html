@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kool Kick ZA</title>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="cart.js"></script>
+
+</head>
+<body>
+<div class="header">
+<div class="container">
+	<div class="navbar">
+	<div class="logo">
+		<img src="images/koolkicklogo.png" width="220px">
+	</div>
+	<nav>
+		<ul id="menuitems">
+				<li><a href ="home.html">Home</a></li>
+				<li><a href ="admin.html">Admin</a></li>
+				<li><a href ="allproducts.html">All Products</a></li>
+				<li><a href ="About.html">About</a></li>
+				<li><a href ="Contact.html">Contact</a></li>
+				<li><a href ="signup.html">Sign Up</a></li>
+				<li><a href ="login.html">Log In</a></li>
+				<li><a href = "logout.php">Logout</a></li>
+		</ul>
+	</nav>
+	<img src="images/menuicon.png" class="menu-icon" 
+	onclick="menutoggle()">
+</div>
+<div class="row">
+	<div class=".col-2">
+		<h1>Kool Kick ZA<br>Bringing you exclusive shoes right to your doorstep.</br></h1>
+		<p>KOOLKICKZ is a sneaker and footwear store that offers the latest and greatest in sneaker culture.</p>
+		<a href="allproducts.html" class="btn">Let's go &#10146;</a>
+	</div>
+	<div class=".col-2">
+		
+
+	</div>
+</div>
+</div>
+</div>
+<hr>
+<!-------- Featured Products --------->
+<div class ="small-container">
+	<h2 class="title">Shop The Nike Collection<h2>
+	<div class="row">
+		<div class="col-4">
+			<img class="product-image" src="images/shoe1.jpg">
+			<div class="product-details">
+				<span class="product-title"><h4>Men's Jordan</h4></span>
+				
+				<span class="product-price">R850.00</span> <br> 
+				<button class="btn btn-primary product-button" type="button">Cart &ensp;<i class="fa fa-plus"></i></button>
+			</div>	
+		</div>
+		<div class="col-4">
+			<img class="product-image" src="images/shoe2.jpg">
+			<div class="product-details">
+				<span class="product-title"><h4>Air Jordan </h4> <br></span>
+				<span class="product-price">R999.00</span>
+				<button class="btn btn-primary product-button" type="button">Cart &ensp;<i class="fa fa-plus"></i></button>
+			</div>	
+		</div>
+		<div class="col-4">
+			<img class="product-image" src="images/shoe3.jpg">
+			<div class="product-details">
+				<span class="product-title"><h4>Air Jordan White</h4></span>
+				<span class="product-price">R850.00</span>
+				<button class="btn btn-primary product-button" type="button">Cart &ensp;<i class="fa fa-plus"></i></button>
+			</div>	
+		</div>
+		<div class="col-4">
+			<img class="product-image" src="images/shoe4.jpg">
+			<div class="product-details">
+				<span class="product-title"><h4>Air Jordan 1 Mid</h4></span>
+				<span class="product-price">R999.00</span>
+				<button class="btn btn-primary product-button" type="button">Cart &ensp;<i class="fa fa-plus"></i></button>
+			</div>	
+		</div>
+	</div>
+<!------ Latest Products --------->
+	<h2 class="title">Shop The Adidas Collection</h2>
+	<div class="row">
+		<div class="col-4">
+			<img class="product-image" src="images/adi1.jpg">
+			<div class="product-details">
+				<span class="product-title"><h4>GRAND COURT LIFESTYLE</h4></span>
+				<span class="product-price">R850.00</span>
+				<button class="btn btn-primary product-button" type="button">Cart &ensp;<i class="fa fa-plus"></i></button>
+			</div>
+		</div>
+		<div class="col-4">
+			<img class="product-image" src="images/adi2.jpg">
+			<div class="product-details">
+				<span class="product-title"><h4>NMD_R1 SHOES</h4></span>
+				<span class="product-price">R1200.00</span>
+				<button class="btn btn-primary product-button" type="button">Cart &ensp;<i class="fa fa-plus"></i></button>
+			</div>	
+		</div>
+		<div class="col-4">
+			<img class="product-image" src="images/adi3.jpg">
+			<div class="product-details">
+				<span class="product-title"><h4>FORUM LOW SHOES</h4></span>
+				<span class="product-price">R850.00</span>
+				<button class="btn btn-primary product-button" type="button">Cart &ensp;<i class="fa fa-plus"></i></button>
+			</div>	
+		</div>
+		<div class="col-4">
+			<img class="product-image" src="images/adi4.jpg">
+			<div class="product-details">
+				<span class="product-title"><h4>ULTRABOOST 1.0 SHOES</h4></span>
+				<span class="product-price">R950.00</span>
+				<button class="btn btn-primary product-button" type="button">Cart &ensp;<i class="fa fa-plus"></i></button>
+			</div>	
+		</div>
+	</div>
+</div>
+
+  <section class="container content-section">
+		<h2 class="section-header">Cart</h2>
+		<div class="cart-row">
+			<span class="cart-item cart-header cart-column">Item</span>
+			<span class="cart-price cart-header cart-column">Price</span>
+			<span class="cart-quantity cart-header cart-column">Quantity</span>
+		</div>
+		<div class="cart-items">
+		</div>
+		<div class="cart-total">
+			<strong class="cart-total-title">Total</strong>
+			<span class="cart-total-price">R00.00</span>
+		</div>
+		<a href="payment.html" button class="btn btn-primary btn-purchase" type="button">PURCHASE</button>
+  </section>
+<!------ offer ------>
+<div class="offer">
+			
+			<div class="col-2">
+			<p>Our Mission At Kool Kick ZA</p>
+			<h1>Best Shoes, Best Price</h1>
+			<small>KOOLKICKZ is a sneaker and footwear store that offers the latest and greatest in sneaker culture. We aim to add value to our customer's lives by providing premium quality sneakers at an affordable price.</small>
+			<a href="allproducts.html" class="btn">Let's Go &#10146</a>
+			
+		
+	</div>
+</div>
+
+<hr>
+<!------- testimonial ------->
+<h2 class="title">Testimonials</h2>
+<div class="testimonial">
+	<div class="small-container">
+		<div class="row">
+			<div class="col-3">
+				<i class="fa fa-quote-left"></i>
+				<p>Best product, with the friendliest staff!</p>
+				<div class="rating">
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+				</div>
+				<img src="images/pic-4.png">
+				<h3>Maryn May</h3>
+			</div>
+			<div class="col-3">
+				<i class="fa fa-quote-left"></i>
+				<p>Highest quality product!</p>
+				<div class="rating">
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+				</div>
+				<img src="images/pic-3.png">
+				<h3>Frederick Meintjies</h3>
+			</div>
+			<div class="col-3">
+				<i class="fa fa-quote-left"></i>
+				<p>My feet never been happier!</p>
+				<div class="rating">
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+				</div>
+				<img src="images/pic-1.png">
+				<h3>Steve Armstrong</h3>
+			</div>		
+		</div>
+	</div>
+</div>
+<hr>
+<!-------- brands -------->
+<div class="brands">
+<h2 class="title">Our brands</h2>
+	<div class="small-container">
+		<div class="row">
+			<div class="col-2">
+				<img src="images/nike.png">
+			</div>
+			<div class="col-2">
+				<img src="images/adidas.png">
+			</div>
+		</div>
+	</div>
+</div>
+<!------ footer ------->
+<hr>
+<div class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="footer-col-2">
+				<img src="images/koolkicklogo.png">
+				<p>KOOLKICKZ is a sneaker and footwear store that offers the latest and greatest in sneaker culture. We aim to add value to our customer's lives by providing premium quality sneakers at an affordable price.</p>
+				
+				<h3>Contact</h3>
+				<p><strong>Address: </strong>22 Umgazi Rd, Ashlea Gardens, Pretoria, 0081</p>
+				<p><strong>Phone: </strong>012 348 3060</p>
+				<p><strong>Hours </strong>08:00 - 16:30 Mon - Fri</p>
+			</div>
+				
+			<div class="footer-col-3">
+				<h3>Useful Links</h3>
+				<ul>
+				<li>Coupons</li>
+				<li>Blog Post</li>
+				<li>Return Policy</li>
+			
+				</ul>
+			</div>
+			<div class="footer-col-4">
+				<h3>Follow Us</h3>
+				<ul>
+				<li>Facebook</li>
+				<li>Twitter</li>
+				<li>Instagram</li>
+				<li>Youtube</li>
+				</ul>
+			</div>
+		</div>
+		<hr>
+		<p class="copyright"> © 2023 Kool Kick ZA</p>
+	</div>
+</div>
+<!---------- js for toggle menu ----------->
+
+<script>
+	var menuitems = document.getElementById("menuitems");
+	
+	menuitems.style.maxHeight = "0px";
+	
+	function menutoggle(){
+		if(menuitems.style.maxHeight == "0px")
+			{
+				menuitems.style.maxHeight = "200px";
+			}
+		else
+			{
+				menuitems.style.maxHeight = "0px";
+			}
+		
+	}
+</script>	
+</body>
+</html>	
